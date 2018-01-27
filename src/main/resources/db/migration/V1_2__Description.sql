@@ -1,0 +1,1 @@
+ insert into USER values(2, 'justin2', 'fu2', 'admin2')
