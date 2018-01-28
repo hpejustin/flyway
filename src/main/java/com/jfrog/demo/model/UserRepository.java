@@ -1,4 +1,4 @@
-package com.jfrog.demo;
+package com.jfrog.demo.model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
